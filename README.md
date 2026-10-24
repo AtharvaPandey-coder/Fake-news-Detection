@@ -1,3 +1,13 @@
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+👉 **[Launch Fake News Detector](https://fake-news-detection-fw6ylbdvszky9py5tpvhhv.streamlit.app/)**
+
+Analyze news text using a machine-learning model, with sentiment analysis and SHAP-based explanations to help understand the prediction.
+
+*Disclaimer: Predictions are model estimates, not definitive verification of whether a news article is true or false.*
+
 # 📰 Fake News Detector
 
 A machine learning web app that classifies a news headline or article as **Real** or **Fake**, explains *why* using SHAP, and also reports the text's **sentiment** and **category**.
