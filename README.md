@@ -57,6 +57,19 @@ For every prediction, the app shows the words that contributed most:
 - 🟢 Green bars push the prediction toward **Real**
 
 ---
+## 🎨 UI Theme
+
+The application features a **Cyber Fact-Check** theme with a sleek dark interface, vivid red accents, and clean typography. The design creates a modern news-verification experience, highlighting analysis results while keeping the interface clear and user-friendly.
+
+- **Background:** Charcoal Black (`#101114`)
+- **Primary Accent:** Alert Red (`#FF4B4B`)
+- **Secondary Background:** Dark Charcoal (`#1C1D24`)
+- **Text:** Soft White (`#F5F5F5`)
+- **Framework:** Streamlit with custom theme configuration
+
+The interface is designed to complement the project's focus on fake news detection, sentiment analysis, and SHAP-based model explainability.
+
+*Note: Model predictions are estimates and should not be treated as definitive proof of whether a news article is true or false.*
 
 ## Project Structure
 
